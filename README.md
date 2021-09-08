@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagururehaman
 - 👀 I’m interested in developing web and mobile application
-- 🌱 I’m currently student at Northwest Missouri State University
+- 🌱 I’m currently student at Northwest Missouri State University (Masters in Applied Computer Science)
 - 📫 How to reach me - narehman71@gmail.com
 
 <!---

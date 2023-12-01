@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nagururehaman
+- 👋 Hi, I’m Abdur
 - 👀 I’m interested in developing web and mobile application
-- 🌱 I’m currently student at Northwest Missouri State University (Masters in Applied Computer Science)
-- 📫 How to reach me - narehman71@gmail.com
+- 🌱 I’m Graduated from Northwest Missouri State University (Masters in Applied Computer Science)
+- 📫 How to reach me - abdurn141@gmail.com
 
 <!---
 nagururehaman/nagururehaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

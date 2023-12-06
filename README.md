@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdur
-- 👀 I’m interested in developing web and mobile application
+- 👀 I’m interested in developing Web, Cloud and Mobile application
 - 🌱 I’m Graduated from Northwest Missouri State University (Masters in Applied Computer Science)
 - 📫 How to reach me - abdurn141@gmail.com
 
